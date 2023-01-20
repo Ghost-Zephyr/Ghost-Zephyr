@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ghost-Zephyr
 - 👀 Check my blog; [io.sivert.pw](https://io.sivert.pw)
-- 🌱 I’m currently improving my Rust and Python skills
+- 🌱 I’m currently improving my Python, Rust and Go skills
 - 📫 Contact info may be found @ [sivert.pw](https://sivert.pw)
