@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ghost-Zephyr
+- 👋 Hi, I’m Sivert V. Sæther ([@Ghost-Zephyr](https://github.com/Ghost-Zephyr))
 - 👀 Check my blog; [io.sivert.pw](https://io.sivert.pw)
 - 🌱 I’m currently improving my Python, Rust and Go skills
 - 📫 Contact info may be found @ [sivert.pw](https://sivert.pw)
