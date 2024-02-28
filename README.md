@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sivert V. Sæther ([@Ghost-Zephyr](https://github.com/Ghost-Zephyr))
-- 👀 Check my blog; [io.sivert.pw](https://io.sivert.pw)
 - 🌱 I’m currently improving my Python, Rust and Go skills
+- 👀 Check my blog; [io.sivert.pw](https://io.sivert.pw)
+- 🐳 I ❤️ Docker; check my [Docker hub profile](https://hub.docker.com/u/siverten)
 - 📫 Contact info may be found @ [sivert.pw](https://sivert.pw)
